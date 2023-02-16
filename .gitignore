@@ -1,0 +1,2 @@
+.devcontainer/extra_CA/*.crt
+*.pyc

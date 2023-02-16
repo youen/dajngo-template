@@ -1,0 +1,7 @@
+.*
+!.env
+!.deps
+!.devcontainer
+Dockerfile
+*.md
+sonar-*.properties
